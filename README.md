@@ -56,4 +56,4 @@ Sistema de Reserva Real: Por enquanto, a reserva é só uma simulação no seu n
 
 <li> Desenvolvido por Filipe Spinola
 
-<li> Turma de Tecnologia em Informática para internet (Turno da turma) – Senac DF
+<li> Turma de Tecnologia em Informática para internet (Vespertino) – Senac DF
